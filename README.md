@@ -31,4 +31,4 @@ INSTALLATION LINK
 
 Open Link and proceed with the steps
 
-APK LINK: https://drive.google.com/file/d/1qrvb5MHc27zgXWlHROOT8m4F8db5QLAY/view?usp=sharing
+APK LINK: https://play.google.com/store/apps/details?id=com.invogen
